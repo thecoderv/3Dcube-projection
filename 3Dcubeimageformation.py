@@ -1,6 +1,6 @@
 """
-Original Matlab project by: M. Subbarao, ECE, SBU
-Python Template : Revised by TA C. Orlassino (8/31/2022)
+Original Matlab project template by: M. Subbarao, ECE, SBU
+
 """
 
 import sys
